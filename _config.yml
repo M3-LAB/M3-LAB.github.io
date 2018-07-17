@@ -1,0 +1,10 @@
+title : TJ-M3LAB
+description: 'M3-LAB Theme'
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+plugins: [jekyll-gist]
+permalink: /:year/:month/:title.html
